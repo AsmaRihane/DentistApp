@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "629695355804",
+    "firebase_url": "https://dentiste-c30b1.firebaseio.com",
+    "project_id": "dentiste-c30b1",
+    "storage_bucket": "dentiste-c30b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629695355804:android:2c89603ca8567642",
+        "android_client_info": {
+          "package_name": "com.example.user.dentistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629695355804-l005navbnbv8ceht4sjrvjuoamgf72hq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.dentistapp",
+            "certificate_hash": "5e09a7fe97fd0c93a450bfa8a601d4b5b026c31f"
+          }
+        },
+        {
+          "client_id": "629695355804-kiqtd10uj0a7rfcqlbj7sg4qh2iohbgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2oWsWjhJHypYaB6HX00M9mDAso-o-FQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629695355804-kiqtd10uj0a7rfcqlbj7sg4qh2iohbgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

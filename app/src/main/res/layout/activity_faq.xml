@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+ >
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/blog_List"
+        android:layout_width="match_parent"
+
+
+        android:layout_height="520dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="47dp">
+
+
+    </android.support.v7.widget.RecyclerView>
+
+    <ImageButton
+        android:id="@+id/btn_add"
+        android:layout_width="57dp"
+        android:layout_height="42dp"
+        android:layout_alignEnd="@+id/blog_List"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="0dp"
+        app:srcCompat="@mipmap/ic_add_white_24dp" />
+</RelativeLayout>
